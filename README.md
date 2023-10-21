@@ -31,4 +31,4 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/social-network-community-detection.git
+   git clone https://github.com/maziyar-gerami/CommunityDetecion.git
